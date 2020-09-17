@@ -1,0 +1,79 @@
+body{
+    background-color: black;
+}
+
+ul{
+    text-align: left;
+    color:white;
+}
+
+.header1{
+    color:white;
+    font-family: Tahoma;
+    font-weight: bold;
+    text-align: left;
+    padding: 230px 150px 0 40px;
+    margin: 0 0 25px 0;
+}
+
+.picFirst{
+    width: 35%;
+    height: 350px;
+    background-image:
+            url(img/back-img-01.jpg);
+    background-size: cover;
+    border-radius: 25px 25px 0 0;
+    margin: 0 0 0 0;
+}
+
+.text1{
+    color:white;
+    font-family: Arial;
+    text-align: left;
+    padding-left: 55px;
+    padding-bottom: 3px;
+    padding-top: 5px;
+    border-radius: 0 0 25px 25px;
+    background-color: #383838;
+}
+
+.text2{
+    color:white;
+    font-family: Arial;
+    text-align: left;
+    font-size: 17px;
+    padding-left: 12px;
+}
+
+.link{
+    color:white;
+    font-family: Arial;
+    text-align: left;
+    font-size: 17px;
+    padding-left: 12px;
+}
+
+.imgOscar{
+    margin-top: 20px;
+}
+
+.last{
+    margin-top: 35px;
+    background-color: #383838;
+    border-radius: 25px;
+}
+
+.textLast1{
+    color:white;
+    font-family: Arial;
+    font-size: 17px;
+    padding-bottom: 0px;
+}
+
+.textLast2{
+    color:white;
+    font-family: Arial;
+    font-size: 17px;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+}
